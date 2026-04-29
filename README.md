@@ -1,18 +1,17 @@
-# 📱 Mobile Sales Dashboard — Power BI Project
+#  Mobile Sales Dashboard — Power BI Project
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi) ![Excel](https://img.shields.io/badge/Excel-Data%20Source-green?logo=microsoftexcel) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > An interactive Power BI dashboard analyzing mobile phone sales across 19 Indian cities (2021–2024), covering brands, revenue, customer behaviour, and payment trends.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project visualizes **3,835 mobile sales transactions** across India to uncover patterns in brand performance, city-wise demand, customer ratings, and payment preferences. Built using Power BI with raw data sourced from Excel.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **File:** `Mobile_Sales_Data.xlsx`
 - **Rows:** 3,835 transactions
@@ -35,7 +34,7 @@ This project visualizes **3,835 mobile sales transactions** across India to unco
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -44,7 +43,7 @@ This project visualizes **3,835 mobile sales transactions** across India to unco
 
 ---
 
-## 🏙️ Coverage
+##  Coverage
 
 - **Brands:** Apple, Samsung, OnePlus, Xiaomi, Vivo
 - **Cities:** 19 cities including Delhi, Mumbai, Bangalore, Hyderabad, Chennai, Kolkata & more
@@ -53,33 +52,27 @@ This project visualizes **3,835 mobile sales transactions** across India to unco
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
-- 📈 **Sales trend** across 4 years (2021–2024)
-- 🏆 **Top performing brands** by units sold and revenue
-- 🗺️ **City-wise sales distribution** across 19 Indian cities
-- 💳 **Payment method breakdown** — UPI vs Card vs Cash
-- ⭐ **Customer rating analysis** by brand and model
-- 👥 **Customer age group** insights
-- 📅 **Day-wise and month-wise** sales patterns
-
----
-
-## 📸 Dashboard Screenshots
-
-> *(Add screenshots of your Power BI dashboard here)*
-
-```
-screenshots/
-├── overview.png
-├── brand_analysis.png
-├── city_sales.png
-└── payment_trends.png
-```
+-  **Sales trend** across 4 years (2021–2024)
+-  **Top performing brands** by units sold and revenue
+-  **City-wise sales distribution** across 19 Indian cities
+-  **Payment method breakdown** — UPI vs Card vs Cash
+-  **Customer rating analysis** by brand and model
+-  **Customer age group** insights
+-  **Day-wise and month-wise** sales patterns
 
 ---
 
-## 📂 Project Structure
+##  Dashboard Screenshots
+
+> ### Overview
+![Overview](screenshots/overview.png)
+
+
+---
+
+##  Project Structure
 
 ```
 mobile-sales-dashboard-powerbi/
@@ -92,24 +85,17 @@ mobile-sales-dashboard-powerbi/
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - 🇮🇳 UPI is the most preferred payment method reflecting India's digital payment growth
-- 📱 [Add your top brand finding here]
-- 🏙️ [Add your top city finding here]
-- ⭐ [Add your customer rating insight here]
-
-*(Update this section with actual findings from your dashboard)*
-
+- Apple is the most preferred brand
+- Mumbai is the city where most of the sales happened
+  
 ---
 
-## 🙋 About
+##  About
 
 This is part of my Data Analytics portfolio. I built this dashboard to practice Power BI skills including data modeling, DAX measures, and interactive visualizations on a real-world sales dataset.
 
 ---
 
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YOUR-USERNAME)
